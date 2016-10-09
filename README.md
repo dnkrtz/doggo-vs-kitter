@@ -6,7 +6,7 @@ This [**ongoing competition**](https://www.kaggle.com/c/dogs-vs-cats-redux-kerne
 
 Setup
 -----
-To quickly setup the computer vision and tensorflow depencies in Python 3:
+To quickly setup the opencv and tensorflow depencies in Anaconda3 (Python 3):
 
     conda install -c https://conda.anaconda.org/menpo opencv3
     conda install -c https://conda.anaconda.org/jjhelmus tensorflow
