@@ -8,8 +8,14 @@ Setup
 -----
 To quickly setup the opencv and tensorflow depencies in Anaconda3 (Python 3):
 
+    # OpenCV is a computer-vision library.
     conda install -c https://conda.anaconda.org/menpo opencv3
+    
+    # TensorFlow is Google Brain's second generation machine learning system.
     conda install -c https://conda.anaconda.org/jjhelmus tensorflow
+    
+    # Keras is a modular neural networks library.
+    pip install keras
 
 References
 ----
