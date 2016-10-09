@@ -4,8 +4,20 @@ Computers have a hard time distinguishing dogs from cats. So much so that this t
 This [**ongoing competition**](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) is used to benchmark the latest computer vision and deep learning approaches to this problem. <br/>
 [**Data**](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data) courtesy of Microsoft Research, with a total of 37,500 images of cats and dogs.
 
+Setup
+-----
+To quickly setup the opencv and tensorflow depencies in Anaconda3 (Python 3):
 
+    # OpenCV is a computer-vision library.
+    conda install -c https://conda.anaconda.org/menpo opencv3
+    
+    # TensorFlow is Google Brain's second generation machine learning system.
+    conda install -c https://conda.anaconda.org/jjhelmus tensorflow
+    
+    # Keras is a modular neural networks library.
+    pip install keras
 
-#### References
+References
+----
 
 1. Golle, P. "Machine Learning Attacks against the Asirra Captcha." Proceedings of the Acm Conference on Computer and Communications Security. (2008): 535-542. Print. 
