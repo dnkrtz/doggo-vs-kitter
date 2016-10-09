@@ -1,0 +1,11 @@
+Setting up env in Python 3
+
+
+Computer vision
+----------------
+conda install -c https://conda.anaconda.org/menpo opencv3
+
+
+TensorFlow
+----------
+conda install -c https://conda.anaconda.org/jjhelmus tensorflow
